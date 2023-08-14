@@ -2,7 +2,7 @@
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning python and front-end
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me -> mahdigorji559@gmail.com
 
 <!---
 mahdigorji559/mahdigorji559 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
